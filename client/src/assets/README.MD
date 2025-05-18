@@ -4,20 +4,20 @@ Need to match names to **work properly**!!
 
 /cursors/sword.cur
 
-/images/
-build.png
-cog.png
-create.png
-curseforge.png
-shaders.jpg
-small_cog.png
-storage.jpg
-
-/logo/logo.png
-
-/potatos
-potato1.png
-potato2.png
-potato3.png
-potato4.png
-potato5.png
+/images/<br>
+build.png<br>
+cog.png<br>
+create.png<br>
+curseforge.png<br>
+shaders.jpg<br>
+small_cog.png<br>
+storage.jpg<br>
+<br>
+/logo/logo.png<br>
+<br>
+/potatos<br>
+potato1.png<br>
+potato2.png<br>
+potato3.png<br>
+potato4.png<br>
+potato5.png<br>
