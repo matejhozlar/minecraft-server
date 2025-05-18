@@ -2,7 +2,7 @@
 
 Need to match names to **work properly**!!
 
-### /clickerGame/destroy/<br>
+## /clickerGame/destroy/<br>
 
 - destroy_stage_0.png<br>
 - destroy_stage_1.png<br>
@@ -15,7 +15,7 @@ Need to match names to **work properly**!!
 - destroy_stage_8.png<br>
 - destroy_stage_9.png<br>
 
-### /clickerGame/materials<br>
+## /clickerGame/materials<br>
 
 - coal.png <br>
 - cobble_stone.png <br>
@@ -29,7 +29,7 @@ Need to match names to **work properly**!!
 - netherite_ingot.png<br>
 - netherite_ore.png<br>
 
-### /clickerGame/models/brightened<br>
+## /clickerGame/models/brightened<br>
 
 - azure_electrum_pickaxe_bright.glb<br>
 - azure_silver_pickaxe_bright.glb<br>
@@ -45,7 +45,7 @@ Need to match names to **work properly**!!
 - tyrian_pickaxe_bright.glb<br>
 - wooden_pickaxe_bright.glb<br>
 
-### /clickerGame/models/images/<br>
+## /clickerGame/models/images/<br>
 
 - autoclicker.png<br>
 - azure_electrum_pick.png<br>
@@ -63,7 +63,7 @@ Need to match names to **work properly**!!
 - tyrian_pick.png<br>
 - wooden_pick.png<br>
 
-### /clickerGame/textures/<br>
+## /clickerGame/textures/<br>
 
 - stone.png<br>
 
