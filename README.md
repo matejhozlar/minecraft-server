@@ -125,15 +125,15 @@ SFTP_PASS=
 ```
 ### 4. Run the Server
 ```bash
+From the root of the project
+
+Front-end:
+cd client
 npm start
-🔌 API Endpoints
-Route	Description
-/playerCount	Get current online player count
-/players	List tracked players + playtime
-/verify-token	Validate access token
-/apply	        Submit application to join
-/wait-list	Join waitlist via email/Discord
-/upload-image	Upload image to Discord chat
+
+Back-end:
+cd server
+npm run dev
 ```
 ### 💬 Discord Integration
 ### Includes full support for:
