@@ -2,8 +2,6 @@
 
 Need to match names to **work properly**!!
 
-## /clickerGame/<br>
-
 ### /clickerGame/destroy/<br>
 
 - destroy_stage_0.png<br>
