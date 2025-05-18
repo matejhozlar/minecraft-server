@@ -146,7 +146,7 @@ npm run dev
 
 - Chat history syncing
 
-This project is fan-made, not affiliated with Mojang or Microsoft. All original Minecraft assets must be supplied by the end-user
+This project is fan-made, not affiliated with Mojang or Microsoft. All assets must be supplied by the end-user
 
 📧 Contact
 📮 Email: admin@create-rington.com
