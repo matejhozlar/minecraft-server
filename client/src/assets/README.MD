@@ -2,8 +2,9 @@
 
 Need to match names to **work properly**!!
 
-/cursors/sword.cur
-
+/cursors/<br>
+sword.cur<br>
+<br>
 /images/<br>
 build.png<br>
 cog.png<br>
@@ -13,7 +14,8 @@ shaders.jpg<br>
 small_cog.png<br>
 storage.jpg<br>
 <br>
-/logo/logo.png<br>
+/logo/<br>
+logo.png<br>
 <br>
 /potatos<br>
 potato1.png<br>
