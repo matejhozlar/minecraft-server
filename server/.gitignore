@@ -1,0 +1,7 @@
+/node_modules
+.env
+/services/.env
+/logs/
+/services/logs/
+/stats
+/tmp
