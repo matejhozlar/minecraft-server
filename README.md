@@ -6,14 +6,14 @@ This Node.js server powers authentication, Discord/Minecraft integration, real-t
 
 ---
 
-## 🌐 Live Server
+## Live Server
 
-🔗 https://create-rington.com  
-📊 View Dynmap, chat, apply to join, and more.
+https://create-rington.com  
+View Dynmap, chat, apply to join, and more.
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Node.js** + **Express**
 - **Socket.IO** – real-time chat sync
@@ -26,20 +26,20 @@ This Node.js server powers authentication, Discord/Minecraft integration, real-t
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🔒 **Secure Token-Based Registration & Verification**
-- 💬 **Two-Way Chat Sync** between Web & Discord & MC Server
-- ⌛ **Playtime Tracking** with Top Player Roles
-- 📝 **Whitelist Registration** via Discord
-- 📷 **Image Uploads** from Web UI to Discord to MC Server
-- 🧾 **Waitlist & Application System**
-- 📊 **Player List & Live Server Stats**
-- 🛡️ **Role assignment automation for Discord**
+- **Secure Token-Based Registration & Verification**
+- **Two-Way Chat Sync** between Web & Discord & MC Server
+- **Playtime Tracking** with Top Player Roles
+- **Whitelist Registration** via Discord
+- **Image Uploads** from Web UI to Discord to MC Server
+- **Waitlist & Application System**
+- **Player List & Live Server Stats**
+- **Role assignment automation for Discord**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -135,7 +135,7 @@ Back-end:
 cd server
 npm run dev
 ```
-### 💬 Discord Integration
+### Discord Integration
 ### Includes full support for:
 
 - Slash commands (/register, /verify, /playtime, etc.)
@@ -148,7 +148,7 @@ npm run dev
 
 This project is fan-made, not affiliated with Mojang or Microsoft. All assets must be supplied by the end-user
 
-📧 Contact
-📮 Email: admin@create-rington.com
-🌍 Site: https://create-rington.com
+Contact
+Email: admin@create-rington.com
+Site: https://create-rington.com
 
