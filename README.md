@@ -140,7 +140,7 @@ npm run dev
 
 - Slash commands (/register, /verify, /playtime, etc.)
 
-- Auto-role assignment (Unverified ➡ Verified)
+- Auto-role assignment (Unverified -> Verified)
 
 - Staff notifications for issues
 
